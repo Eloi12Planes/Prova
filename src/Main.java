@@ -6,7 +6,11 @@ public class Main {
 		n++;
 		System.out.println("Num "+n);
 		
-
+		
+	}
+	
+	public void saludar(String nom) {
+		System.out.println("Hola "+nom);
 	}
 
 }
